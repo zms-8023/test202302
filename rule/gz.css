@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+
+ .gui{
+
+        float: left;
+        width: 312px;
+        height: 855px;
+    }
+    .gui1{
+        float: right;
+        width: 702px;
+        height: 855px;
+		border-left: 6px solid #FFFFFF
+    }
+.divlong{
+    width: 1020px;
+	height: 1165px;
+	margin: 0 auto;
+	border: 20px double #D4E08A;
+	background: #FFFFFF
+
+}
+.divc{
+	background-color: #E7ECAA;
+    height: 854px;
+    width: 1020px;
+	margin: 0 auto;
+	padding: 0px;
+	display: inline-block;
+}
